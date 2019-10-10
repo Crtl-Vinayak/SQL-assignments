@@ -1,0 +1,1 @@
+SELECT SUM(schoolgeld) FROM student;
