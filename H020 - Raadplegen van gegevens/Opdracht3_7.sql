@@ -1,0 +1,1 @@
+SELECT voorletters, tussenvoegsels, achternaam FROM student WHERE geslacht = 'vrouw' AND woonplaats = 'Lelystad';

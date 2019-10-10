@@ -1,0 +1,1 @@
+SELECT voorletters, tussenvoegsels, achternaam, woonplaats FROM student ORDER BY woonplaats ASC;
