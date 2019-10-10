@@ -1,0 +1,1 @@
+SELECT * FROM student WHERE geboortedatum <= '1995/12/31' OR geboortedatum >= '1997/1/1';
