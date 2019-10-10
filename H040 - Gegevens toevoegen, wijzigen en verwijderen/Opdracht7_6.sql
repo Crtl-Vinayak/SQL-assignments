@@ -1,0 +1,1 @@
+SELECT schoolgeld, studentnr, roepnaam FROM student WHERE studentnr = '4444';
