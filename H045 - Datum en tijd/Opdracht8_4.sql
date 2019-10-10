@@ -1,0 +1,3 @@
+SELECT * FROM student;
+
+SELECT DATEDIFF(now(), '2015-09-06');
